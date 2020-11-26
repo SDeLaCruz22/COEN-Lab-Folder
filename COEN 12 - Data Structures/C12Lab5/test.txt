@@ -1,0 +1,2 @@
+4 John 10 Mike 1 Alex 10 Steve 6 David 5 Maya 7 Mike 8 Alex 3 Peter 8 
+Sam

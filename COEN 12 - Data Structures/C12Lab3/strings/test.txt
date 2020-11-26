@@ -1,0 +1,1 @@
+Less buffs and less heals, more attacking. Buffs make them significantly more difficult, and healing makes them extremely annoying without healing calculation being reworked (which is planned anyways, but constantly healin enemies would still be annoying)

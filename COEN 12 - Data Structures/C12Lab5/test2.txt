@@ -1,0 +1,12 @@
+6 John 39 Mike 73 Alex 57 Steve 52 David 62 Maya 69 Mike 80 Alex 38 
+Peter 6 Sam 28 John 100 Mike 26 Alex 29 Steve 24 David 32 Maya 24 Mike 
+66 John 52 Mike 47 Alex 56 Steve 30 David 35 Maya 21 Mike 90 Alex 71 
+Peter 46 Sam 93 John 70 Mike 37 Alex 33 Steve 59 David 42 Maya 11 Mike 
+97 John 1 Mike 39 Alex 81 Steve 23 David 64 Maya 89 Mike 26 Alex 45 
+Peter 44 Sam 51 John 11 Mike 18 Alex 65 Steve 40 David 19 Maya 36 Mike 
+79 John 93 Mike 93 Alex 42 Steve 15 David 57 Maya 91 Mike 56 Alex 42 
+Peter 6 Sam 63 John 60 Mike 86 Alex 99 Steve 93 David 45 Maya 51 Mike 38 
+John 58 Mike 39 Alex 13 Steve 63 David 85 Maya 54 Mike 99 Alex 35 Peter 
+54 Sam 20 John 47 Mike 41 Alex 83 Steve 54 David 22 Maya 54 Mike 20 John 
+78 Mike 24 Alex 43 Steve 92 David 36 Maya 38 Mike 22 Alex 90 Peter 61 
+Sam 99 John 50 Mike 90 Alex 83 Steve 37 David
