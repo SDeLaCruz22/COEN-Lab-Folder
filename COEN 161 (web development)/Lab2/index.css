@@ -1,0 +1,137 @@
+
+body{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.latestEpisodes{
+    padding-top: 56.25%;
+    background-size: cover;
+}
+
+#firstEp{
+    background-image: url("./images/buggalo.jpg");
+}
+
+#secondEp{
+    background-image: url("./images/slurm.jpg");
+}
+
+#thirdEp{
+    background-image: url("./images/take-my-money.jpg");
+}
+
+.firstPageHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw; /* this will be automatic, good to know*/
+    height: 20vh;
+    background-color: black;
+    color: white;
+}
+
+.title{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.button{
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    max-width: 10rem;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav > ul > li {
+    display: inline;
+}
+
+
+.firstPageBackground{
+    display: flex;
+    height: 80vh;
+    padding-top: 56.25%;
+    background-image: url("./images/banner.jpg");
+    background-image: cover;
+    flex-direction: column;
+    align-items: center;
+    color: white; 
+}
+
+#mainText{
+    font-size: 4rem;
+    color: white;
+}
+
+.secondPage{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+.episodeCol{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+#text{
+    justify-content: right;
+}
+
+#Episode{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+/*flex-direction: column; /* smaller boxes */
+
+.thirdPage{
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.5rem;
+    color: white;
+}
+
+#ponder{
+    background-image: url("./images/pondering.jpeg");
+    padding-top: 50%;
+    width: 30%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    background-size: cover;
+}
+
+#ponderText{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    max-width: 50%;
+}
+
+#button2{
+    background-color: white;
+    color: brown;
+    margin-top: 10px;
+    padding: 10px;
+    max-width: 100px;
+}
+
+.fourthPage{
+    display: flex;
+    margin: 10%;
+    justify-content: space-around;
+    color: brown;
+}
